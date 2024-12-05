@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Menu Layout</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="center">center</string>
+    <string name="vertical">vertical</string>
+    <string name="horizontal">horizontal</string>
+    <string name="not_checked">Not checked</string>
+    <string name="checked">Checked</string>
+    <string name="radiogroup_checkbox">RadioGroup + Checkbox</string>
+    <string name="weight_example">Weight Example</string>
+    <string name="searchbar">SearchBar</string>
+    <string name="overlap">Overlap</string>
+    <string name="form">Form</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="i_am_big">I AM BIG</string>
+    <string name="i_am_small">I am small</string>
+</resources>
